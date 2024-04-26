@@ -1,38 +1,29 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The commonwealth of man",
+		"leaderName": "The party",
+		"adjective": ["citizen"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": ""Glory to the party!" your citizens shout. the have full hope you and your comrades will be able to lead them to become the most powerful empire in the world. will you prove them right and build a civilization that can stand the test of time?",
+		"startIntroPart2": "this is my first mod and i don't want people playing it as it's just for me so pwetty pweese back off",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You stand in the way of our glorious expansion, we are on the right side of history!",
+		"attacked": "YOU DARE ATTACK US? YOU WILL BE CRUSHED!",
+		"defeated": "that's cap no way we lost",
+		"introduction": "Welcome to the greatest country in the world! The party ensures it stays that way so don't stand in it's way",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Sergey Andreev of the party speaking, how may i help you?",
+		"hateHello": "We have no intrest in diplomacy with you.",
+		
+		"afterPeace": "Very well, The party ne longer sees the lost of life as necessary.",
+		"tradeRequest": "The party offers you this exceptional deal!.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [56,158,159],
+		"innerColor": [6,8,7],
+		"unique": "Extreme nationalism",
+		"cities": ["Unity","farsight","Icarus","Kobol","Ironreach","","Bastion","Falkenstein","Honor",
+			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St. Yegorov"]
 	}
 ]
