@@ -10,20 +10,21 @@
 		"startIntroPart2": "this is my first mod and i don't want people playing it as it's just for me so pwetty pweese back off",
 		
 		"declaringWar": "You stand in the way of our glorious expansion, we are on the right side of history!",
-		"attacked": "YOU DARE ATTACK US? YOU WILL BE CRUSHED!",
-		"defeated": "that's cap no way we lost",
-		"introduction": "Welcome to the greatest country in the world! The party ensures it stays that way so don't stand in it's way",
+		"attacked": "You dare attack us? YOU WILL BE CRUSHED!",
+		"defeated": "I suppose thats it then, well played",
+		"introduction": "Welcome to the greatest country in the world! The party ensures it stays that way so don't stand in our way",
 		
 		"neutralHello": "Sergey Andreev of the party speaking, how may i help you?",
 		"hateHello": "We have no intrest in diplomacy with you.",
 		
 		"afterPeace": "Very well, The party ne longer sees the lost of life as necessary.",
-		"tradeRequest": "The party offers you this exceptional deal!.",
+		"tradeRequest": "The party offers you this exceptional trade!.",
 
 		"outerColor": [56,158,159],
 		"innerColor": [6,8,7],
-		"unique": "Extreme nationalism",
-		"cities": ["Unity","farsight","Icarus","Kobol","Ironreach","","Bastion","Falkenstein","Honor",
-			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St. Yegorov"]
+		"uniqueName": "Extreme nationalism",
+		"uniques": "Starts with [Order] adopted", "Double quantity of [Uranium] produced"],
+		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","","Bastion","Falkenstein","Honor",
+			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St.Nevsky"]
 	}
 ]
