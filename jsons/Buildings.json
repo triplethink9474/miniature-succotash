@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Border patrol",
+		"replaces": "Army base",
+		"uniqueTo": "Commonweath of man",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
