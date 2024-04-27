@@ -23,7 +23,7 @@
 		"outerColor": [56,158,159],
 		"innerColor": [6,8,7],
 		"uniqueName": "Extreme nationalism",
-		"uniques": "Starts with [Order] adopted", "Double quantity of [Uranium] produced"],
+		"uniques": ["Starts with [Order] adopted", "Double quantity of [Uranium] produced"],
 		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","","Bastion","Falkenstein","Honor",
 			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St.Nevsky"]
 	}
