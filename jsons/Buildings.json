@@ -2,7 +2,7 @@
 	{
 		"name": "Border patrol",
 		"replaces": "Army base",
-		"uniqueTo": "Commonweath of man",
+		"uniqueTo": "The commonweath of man",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
