@@ -1,6 +1,7 @@
 [
 	{
 		"name": "patriotic warrior",
+		"uniqueTo": "The commonweath of man",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 75,
