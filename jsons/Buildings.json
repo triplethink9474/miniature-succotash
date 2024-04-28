@@ -3,7 +3,7 @@
 		"name": "Border patrol",
 		"replaces": "Military Base",
 		"uniqueTo": "The commonweath of man",
-		"cost": 400,
+		"cost": 200,
 		"cityStrength": 20,
 		"cityHealth": 50,
 		"requiredBuilding": "Arsenal",
@@ -11,13 +11,15 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": " Propoganda Tower",
+		"replaces": "Broadcast Tower",
+		"uniqueTo": "The commonweath of man",
+		"culture": 3,
+		"happiness": 3
+		"percentStatBonus": {"culture": 33},
+		"requiredBuilding": "Museum",
+		"maintenance": 3,
+		"requiredTech": "Radio",
+		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
