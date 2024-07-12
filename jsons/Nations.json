@@ -23,7 +23,7 @@
 		"outerColor": [56,158,159],
 		"innerColor": [6,8,7],
 		"uniqueName": "Extreme nationalism",
-		"uniques": "Great General provides double combat bonus" "[+20]% Production when constructing [Miltary] units [in all cities]" "Double quantity of [Uranium] produced"],
+		"uniques": "Great General provides double combat bonus" "[+20]% Production when constructing [Miltary] units [in all cities]" "Double quantity of [Uranium] produced],"
 		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","Bastion","Falkenstein","Honor",
 			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St.Nevsky"]
 	}
