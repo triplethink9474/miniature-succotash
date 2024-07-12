@@ -27,4 +27,30 @@
 		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","Bastion","Falkenstein","Honor",
 			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St.Nevsky"]
 	}
+	{
+		"name": "Tropico",
+		"leaderName": "El Presidente",
+		"adjective": ["Tropican"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "good luck",
+        "startIntroPart2": "",
+
+        "declaringWar": "el presidente doesnt like you",
+		"attacked": "not a worry",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "el presidente has offered you this exceptional proposition.",
+
+        "outerColor": [ 38, 98, 255],
+        "innerColor": [239,236,148],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ancien Régime",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"cities": ["tropico","El Presidenteville"],
+        "spyNames": ["Penultimo", "bob", "Lucien", "dave", "Augustine",]
+    },
 ]
