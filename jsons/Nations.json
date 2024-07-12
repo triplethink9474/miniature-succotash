@@ -7,10 +7,10 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Glory to the commonwealth! your people have full hope that you and your comrades will be able to lead them to become the most powerful empire in the world. will you prove them right and build a civilization that can stand the test of time?",
-		"startIntroPart2": "this is my first mod and i don't want people playing it as it's just for me so pwetty pweese back off",
+		"startIntroPart2": "",
 		
 		"declaringWar": "You stand in the way of our glorious expansion, we are on the right side of history!",
-		"attacked": "You dare attack us? YOU WILL BE CRUSHED!",
+		"attacked": "really bro?",
 		"defeated": "I suppose thats it then, well played",
 		"introduction": "Welcome to the greatest country in the world! The party ensures it stays that way so don't stand in our way",
 		
@@ -23,8 +23,8 @@
 		"outerColor": [56,158,159],
 		"innerColor": [6,8,7],
 		"uniqueName": "Extreme nationalism",
-		"uniques": ["Starts with [Order] adopted", "Double quantity of [Uranium] produced"],
-		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","","Bastion","Falkenstein","Honor",
+		"uniques": "Great General provides double combat bonus" [+20]% Production when constructing [Miltary] units [in all cities]" "Double quantity of [Uranium] produced"],
+		"cities": ["homestead","ironreach","Icarus","Kobol","farsight","Bastion","Falkenstein","Honor",
 			"Olympia","Concord","Port Karakosov","Steelhome","New Jamestown","Astrakhan","St.Nevsky"]
 	}
 ]
