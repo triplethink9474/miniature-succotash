@@ -10,5 +10,6 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
+		"replaces": "Marine",
 	}
 ]
