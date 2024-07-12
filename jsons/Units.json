@@ -8,7 +8,7 @@
 		"cost": 350,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["No movement cost to pillage"],
 		"attackSound": "shot"
 		"replaces": "Marine",
 	}
