@@ -48,9 +48,9 @@
         "innerColor": [239,236,148],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Ancien Régime",
-		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"uniqueName": "Tropican pride",
+	"uniques": [""[+50]% spy effectiveness [in all cities]" "settler Unbuildable Cannot be purchased" ]
 		"cities": ["tropico","El Presidenteville"],
-        "spyNames": ["Penultimo", "bob", "Lucien", "dave", "Augustine",]
+        "spyNames": ["Penultimo", "bob", "Lucien", "dave", "Augustine"]
     },
 ]
